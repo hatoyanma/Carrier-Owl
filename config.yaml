@@ -1,15 +1,9 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.GR OR cat:cs.AI'
+subject: 'cat:cs.GR'
 
 # 検索キーワード
 keywords:
-        deep learning: 10
-        rig: 1
-        rigs: 1
-        rigger: 1
-        human motion: 1
-        character animation: 1
-        
+        deep learning: 10       
 
 # 通知の閾値
 score_threshold: 11
