@@ -6,4 +6,4 @@ keywords:
         deep learning: 10       
 
 # 通知の閾値
-score_threshold: 11
+score_threshold: 1
