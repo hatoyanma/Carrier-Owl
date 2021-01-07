@@ -3,8 +3,13 @@ subject: 'cat:cs.GR OR cat:cs.AI'
 
 # 検索キーワード
 keywords:
-        character: 1
+        deep learning: 10
+        rig: 1
+        rigs: 1
+        rigger: 1
+        human motion: 1
+        character animation: 1
         
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 11
