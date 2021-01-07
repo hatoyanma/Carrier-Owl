@@ -3,9 +3,7 @@ subject: 'cat:cs.GR OR cat:cs.AI'
 
 # 検索キーワード
 keywords:
-        generative: 3
-        3D: 3
-        rendering: 1
+        character: 1
         
 
 # 通知の閾値
