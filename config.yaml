@@ -1,9 +1,10 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.GR'
+subject: cat:cs.AI OR cat:cs.CV
 
 # 検索キーワード
 keywords:
-        deep learning: 10       
+        survey: 10    
+        review: 10
 
 # 通知の閾値
 score_threshold: 1
